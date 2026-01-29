@@ -39,7 +39,7 @@
 - If a milestone spans phases, assign it to the phase where the dominant mode applies.
 
 ## Current overlap in this repo (anti-pattern)
-- `actionables/phases/0_backlog/1-decisions_and_policy` and
+- `actionables/phases/0_backlog/1-direction_and_constraints` and
   `actionables/milestones/0_backlog/1-1-decisions_and_policy_baseline` share objectives
   and deliverables, so phase == milestone in practice.
 - The same duplication exists for repo scaffold, integration seams, guardrails, and demo

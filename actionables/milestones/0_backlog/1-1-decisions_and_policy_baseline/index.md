@@ -16,7 +16,7 @@ dependencies:
   []
 phase:
   id: b19c7f2a-2f6e-4f29-9f3a-6c1f5e2b8f1a
-  canonical_name: phase_1-decisions_and_policy
+  canonical_name: phase_1-direction_and_constraints
 owners:
   - luketych
 ---

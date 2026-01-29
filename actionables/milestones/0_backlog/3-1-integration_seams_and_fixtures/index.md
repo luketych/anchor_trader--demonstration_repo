@@ -2,7 +2,7 @@
 id: c4d5e6f7-9a5b-4c7d-9e8f-9a0b1c2d3e4f
 tags:
   - milestone
-  - phase-3
+  - phase-2
   - integration
   - fixtures
   - milestone-3-1
@@ -16,8 +16,8 @@ dependencies:
   - id: b2c3d4e5-8f4a-4b6c-9d7e-8f9a0b1c2d3e
     canonical_name: milestone_2-1-repo_scaffold_and_templates
 phase:
-  id: d5e6f7a8-4b9c-4d0e-8f1a-2b3c4d5e6f7a
-  canonical_name: phase_3-integration_seams_and_fixtures
+  id: c3d4e5f6-3a7b-4c8d-9e0f-1a2b3c4d5e6f
+  canonical_name: phase_2-build_and_integrate
 owners:
   - luketych
 ---

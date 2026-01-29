@@ -2,7 +2,7 @@
 id: e8f9a0b1-1c7d-4e9f-8a1b-2c3d4e5f6a7b
 tags:
   - milestone
-  - phase-5
+  - phase-3
   - demo
   - delivery
   - milestone-5-1
@@ -15,8 +15,8 @@ dependencies:
   - id: d6e7f8a9-0b6c-4d8e-9f0a-1b2c3d4e5f6a
     canonical_name: milestone_4-1-guardrails_and_validation
 phase:
-  id: f9a0b1c2-6d2e-4f3a-8b4c-5d6e7f8a9b0c
-  canonical_name: phase_5-demo_delivery
+  id: d5e6f7a8-4b9c-4d0e-8f1a-2b3c4d5e6f7a
+  canonical_name: phase_3-validate_and_deliver
 owners:
   - luketych
 ---

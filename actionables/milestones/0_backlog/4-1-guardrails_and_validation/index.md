@@ -2,7 +2,7 @@
 id: d6e7f8a9-0b6c-4d8e-9f0a-1b2c3d4e5f6a
 tags:
   - milestone
-  - phase-4
+  - phase-3
   - guardrails
   - validation
   - milestone-4-1
@@ -16,8 +16,8 @@ dependencies:
   - id: c4d5e6f7-9a5b-4c7d-9e8f-9a0b1c2d3e4f
     canonical_name: milestone_3-1-integration_seams_and_fixtures
 phase:
-  id: e7f8a9b0-5c1d-4e2f-9a3b-4c5d6e7f8a9b
-  canonical_name: phase_4-guardrails_and_validation
+  id: d5e6f7a8-4b9c-4d0e-8f1a-2b3c4d5e6f7a
+  canonical_name: phase_3-validate_and_deliver
 owners:
   - luketych
 ---

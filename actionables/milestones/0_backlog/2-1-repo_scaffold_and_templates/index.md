@@ -17,7 +17,7 @@ dependencies:
     canonical_name: milestone_1-1-decisions_and_policy_baseline
 phase:
   id: c3d4e5f6-3a7b-4c8d-9e0f-1a2b3c4d5e6f
-  canonical_name: phase_2-repo_scaffold_and_templates
+  canonical_name: phase_2-build_and_integrate
 owners:
   - luketych
 ---

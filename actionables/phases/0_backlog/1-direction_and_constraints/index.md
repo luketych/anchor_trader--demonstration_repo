@@ -3,30 +3,30 @@ id: b19c7f2a-2f6e-4f29-9f3a-6c1f5e2b8f1a
 tags:
   - phase
   - convergent
+  - direction
+  - constraints
   - policy
-  - decisions
-  - packaging
   - phase-1
 created_at: 2026-01-29
 updated_at: 2026-01-29
 dependents:
   - id: c3d4e5f6-3a7b-4c8d-9e0f-1a2b3c4d5e6f
-    canonical_name: phase_2-repo_scaffold_and_templates
+    canonical_name: phase_2-build_and_integrate
 dependencies:
   []
 owners:
   - luketych
 ---
-# phase_1-decisions_and_policy
+# phase_1-direction_and_constraints
 
 Type: Convergent
-Duration: 1 week
+Duration: 1-2 weeks
 Mode: Direction and constraints (decision-making and policy alignment).
-Focus: Establish policy decisions and keep constraints visible in demo artifacts.
+Focus: Lock packaging, base tag policy, and guardrail requirements.
 
 ## Entry Criteria
 - MVP demo scope defined at a high level.
-- Policy decisions are the current priority.
+- Policy questions are the current priority.
 
 ## Exit Criteria
 - Milestone 1.1 complete.
